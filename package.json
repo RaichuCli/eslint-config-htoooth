@@ -8,4 +8,8 @@
   },
   "author": "htoo",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/htoooth/eslint-config-htoo.git"
+  },
 }

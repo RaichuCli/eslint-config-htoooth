@@ -17,4 +17,5 @@ npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plug
 ```
 
 ## 参考文章
-[代码重构之道](http://mp.weixin.qq.com/s/vn5BH51CK9F1EDq7gIDODQ)
+1. [代码重构之道](http://mp.weixin.qq.com/s/vn5BH51CK9F1EDq7gIDODQ)
+2. [利用 ESLint 检查代码质量](http://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html)
