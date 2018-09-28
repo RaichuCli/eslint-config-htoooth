@@ -4,7 +4,7 @@
 使用之前必须安装：
 
 ```bash
-npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+npm install --save-dev eslint-config-htoooth
 ```
 
 使用方法：
@@ -12,7 +12,7 @@ npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plug
 2. 写入以下文件：
 ```json
 {
-  "extends": "htoo"
+  "extends": "htoooth"
 }
 ```
 

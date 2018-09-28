@@ -1,15 +1,22 @@
 {
-  "name": "eslint-config-htoo",
+  "name": "eslint-config-htoooth",
   "version": "1.0.0",
-  "description": "my eslint-cinfig",
+  "description": "htoooth eslint-cinfig",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "htoo",
+  "author": "htoooth",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/htoooth/eslint-config-htoo.git"
+    "url": "git://github.com/RaichuCli/eslint-config-htoooth.git"
   },
+  "dependencies": {
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
 }
